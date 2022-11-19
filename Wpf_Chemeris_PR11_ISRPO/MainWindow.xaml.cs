@@ -43,5 +43,10 @@ namespace Wpf_Chemeris_PR11_ISRPO
         {
             listBox1.Items.Remove(textBox1.Text);
         }
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            Window1 window1 = new Window1();
+            window1.Show();
+        }
     }
 }
