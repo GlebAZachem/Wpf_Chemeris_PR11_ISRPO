@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33027.164
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wpf_Chemeris_PR11_ISRPO", "Wpf_Chemeris_PR11_ISRPO\Wpf_Chemeris_PR11_ISRPO.csproj", "{0A35FF4D-9887-4278-ADDF-2347AC749916}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A35FF4D-9887-4278-ADDF-2347AC749916}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A35FF4D-9887-4278-ADDF-2347AC749916}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A35FF4D-9887-4278-ADDF-2347AC749916}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A35FF4D-9887-4278-ADDF-2347AC749916}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {848D7C20-036B-48B4-8D79-16DD1F8A4073}
+	EndGlobalSection
+EndGlobal
